@@ -1,0 +1,14 @@
+{
+    "name": "js-problems",
+    "version": "0.0.1",
+    "private": true,
+    "description": "",
+    "license": "",
+    "scripts": {
+        "test": "jest -o",
+        "test:watch": "jest --watch"
+    },
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
+}
